@@ -1,1 +1,1 @@
-This is a folder for storig all documentation
+This is a folder for storing all documentation
